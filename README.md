@@ -3,7 +3,7 @@ Here every material and info about the Tutorial Async microTelegram Bot that wil
 
 The examples codes and any other resource will be taken from:
 * [uPy Telegram Bot](https://github.com/FunPythonEC/uPy_TelegramBot)
-* [uPy Asyncio Examples](https://github.com/FunPythonEC/Ejemplos_uPy/tree/master/asyncio)
+* [uPy Asyncio Examples](https://github.com/FunPythonEC/Ejemplos_uPy/tree/master/uasyncio)
 
 
 ## Outline
